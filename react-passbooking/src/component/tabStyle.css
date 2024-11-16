@@ -1,0 +1,19 @@
+/* .nav-pills .nav-link
+{
+    border-radius: 0;
+    color: #00000000;
+    background-color: #dddddd;
+}
+
+.nav-pills .nav-item:not(:nth-last-child(1)).nav-link{
+    border-right: 1px solid white;
+}
+
+.tab-content{
+    background-color: #f9fafb;
+    border: 1px solid #dddd;
+} */
+
+.tab-content{
+    padding: 5px;
+}
